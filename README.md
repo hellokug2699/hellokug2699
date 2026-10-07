@@ -1,16 +1,25 @@
-## Hi there 👋
+### 这里是hellokug！
 
-<!--
-**hellokug2699/hellokug2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+全平台名称：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+中文 
+    
+    平台：阿尼阿塞奥 
+
+    游戏：阿尼阿塞奥 幻影，米松
+
+英文 
+
+    平台/游戏：hellokug（2699）
+
+---
+
+一名不会开发但能看懂部分代码的神秘人物，善于追根究底
+
+~~这也就导致我会在闲时非常热衷于找BUG~~
+
+~~先前不会表达，现在多多少少会点了~~
+
+### 不知道说什么了，各位请多关照！
